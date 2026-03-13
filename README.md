@@ -1,5 +1,5 @@
 
-Apartment Rental Management System
+AI Life Manager
 
  Team Members:
 - Hanan Fh
@@ -10,18 +10,18 @@ Apartment Rental Management System
 
 
  Overview:
-The Apartment Rental Management System is a software system designed to help property managers manage apartments, tenants, rental contracts, and payments 
+AI Life Manager is a smart application that helps users organize their daily life using artificial intelligence. The system analyzes user habits such as study time, work, and sleep, then creates a smart schedule and sends intelligent notifications. Its goal is to improve time management, productivity, and daily routine.
 
 
  Project Timeline:
-- Week 1: Requirement Analysis  & Project Planning
+- Week 1: Project Planning and requirement analysis 
 - Week 2: System Design + UML Diagrams
-- Week 3: Database design 
+- Week 3: Frontend development 
 - Week 4: Backend development 
-- Week 5: Frontend development
-- Week 6: System Integration
-- Week 7: Testing & Bug Fixing 
-- Week 8: Documentation Finalization
+- Week 5: AI integration
+- Week 6: Testing 
+- Week 7: Bug Fixing 
+- Week 8: final deplloyment and documentation
 
 
  Tools Used:
